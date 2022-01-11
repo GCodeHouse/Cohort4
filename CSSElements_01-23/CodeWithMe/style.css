@@ -1,0 +1,46 @@
+body {
+  background: thistle;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  color: purple;
+}
+
+p {
+  text-align: center;
+  font-style: italic;
+  font-size: 20px;
+}
+
+img {
+  width: 40%;
+  height: 40%;
+}
+
+figcaption {
+  text-align : left;
+  font-size: 10px;
+}
+li {
+ list-style-type: none;
+}
+
+span {
+  font-weight: bold;
+}
+
+blockquote {
+  text-align: center;
+  color: purple;
+}
+
+h3 {
+  text-align: center;
+}
+
+a {
+  color: white;
+  text-decoration:  purple wavy underline;
+}
