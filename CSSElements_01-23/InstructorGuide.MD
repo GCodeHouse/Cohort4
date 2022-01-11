@@ -4,15 +4,21 @@
 
 
 ### How to Teach
-Please take a look at some of our past classes to get a vibe for our teaching and mentorship style. 
+Please take a look at some of our past classes to get a vibe for our teaching and mentorship style. I will definitely be there to help out, so don't feel like you're alone! Most people are paired with someone who has already taught at G{Code} in the past. 
+
 ### Past Class Example 1
+https://drive.google.com/file/d/14fn1pyrUx5zZ6BTRVNG2jqHxP-qMLnXq/view?usp=sharing
 Note: 
-- Instructors start teaching at: 
-- Mentors start teaching at: 
+- Slides start at: 37:01
+- Code with me starts at: 2:06:26
+- Mentoring in breakout groups starts around: 2:55:44
+
 ## Past Class Example 2
+https://drive.google.com/file/d/1FqvtnhZzMDiHF1rcT5E9HUb3mDcvwGqM/view?usp=sharing
 Note: 
-- Instructors start teaching at: 
-- Mentors start teaching at: 
+- Instructors start teaching at: 35:43
+- Activity starts at: 1:23:03
+- Mentors in breakout rooms starts at: 2:04:56 
 
 ### Content that you will need
 - Slides -- which can be found in this folder
@@ -28,6 +34,16 @@ Note:
 - Ping Rizel on Slack if you have any questions
 - Try to be present at a session **BEFORE** you teach, so the students recognize your face AND so you have a better understanding of how we run the sessions.
 - Join our Slack channel. Please email Rizel for the information on joining our slack channel
+
+## Code with Me Tips
+- In our past cohorts, students really struggle with creating files and linking HTML, CSS, and JS files together. So, we need to be explicit with those steps for them. We need to do this each time that we do a code along to reduce issues. 
+- Before you do the code with me, send them the link to the github repo. 
+- Show yourself creating a new folder on an easy place to access like your Desktop. You can call it GCode_Day[insert number]_[topic that your teaching]
+- Create a new file called index.html inside of that folder
+- Show yourself copying and pasting the contents from the index.html on GitHub
+- Create a new file called for the css 
+- Show yourself copying and pasting the contents from the css stylesheet on GitHub
+- Check to see if the class is following along
 
 
 ## Splitting teaching tasks
