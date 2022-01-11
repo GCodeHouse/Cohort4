@@ -1,5 +1,5 @@
 ## Topic: CSS Elements
-## Instructors: Brittany and Grace
+## Instructors: Nyah and Grace
 ## Date: 01/23
 
 
