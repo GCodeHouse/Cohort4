@@ -14,6 +14,11 @@ Note:
 - Instructors start teaching at: 
 - Mentors start teaching at: 
 
+### Content that you will need
+- Slides -- which can be found in this folder
+- Code with me -- which can be found in this folder
+- Both the slides and code with me are subject to change. If I get time to improve upon them!!! 
+
 ## Strongly Recommended 
 - Don't skip information on slides
 - Frequently use the fist of 5 method to recognize if students are understanding the concepts on a scale of 0-5. 0 being not understanding at all. 5 being understood it completely
