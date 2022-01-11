@@ -8,17 +8,17 @@ Please take a look at some of our past classes to get a vibe for our teaching an
 
 ### Past Class Example 1
 https://drive.google.com/file/d/14fn1pyrUx5zZ6BTRVNG2jqHxP-qMLnXq/view?usp=sharing
-Note: 
-- Slides start at: 37:01
-- Code with me starts at: 2:06:26
-- Mentoring in breakout groups starts around: 2:55:44
+- Note: 
+  - Slides start at: 37:01
+  - Code with me starts at: 2:06:26
+  - Mentoring in breakout groups starts around: 2:55:44
 
 ## Past Class Example 2
 https://drive.google.com/file/d/1FqvtnhZzMDiHF1rcT5E9HUb3mDcvwGqM/view?usp=sharing
-Note: 
-- Instructors start teaching at: 35:43
-- Activity starts at: 1:23:03
-- Mentors in breakout rooms starts at: 2:04:56 
+- Note: 
+  - Instructors start teaching at: 35:43
+  - Activity starts at: 1:23:03
+  - Mentors in breakout rooms starts at: 2:04:56 
 
 ### Content that you will need
 - Slides -- which can be found in this folder
