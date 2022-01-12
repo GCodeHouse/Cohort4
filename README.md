@@ -1,7 +1,7 @@
 # Cohort4 Schedule
 
 
-| # | Date          | Session Agenda                              | Co-Instructors    | Assistant Instructor (One off Questions during lecture) | Leaders        |
+| # | Date          | Session Agenda                              | Co-Instructors    | TA (One off Questions during lecture) | Leaders        |
 |---|---------------|---------------------------------------------|-------------------|---------------------------------------------------------|----------------|
 | 1 | 01/16         | Meet the Change Makers                      | None              | None                                                    | Rizel + Bailey |
 | 2 | 01/23         | CSS Elements                                | Brittany + Grace  | Colin + Klauwer                                       | Rizel          |
