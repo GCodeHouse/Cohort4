@@ -1,4 +1,4 @@
-## Topic: CSS Classes and Flexbox
+## Topic: Manipulating the DOM
 ## Instructors: PJ and Kamari
 ## Date: 02/20
 
