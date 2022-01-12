@@ -1,0 +1,84 @@
+body {
+  background: thistle;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  color: purple;
+}
+
+p {
+  text-align: center;
+  font-style: italic;
+  font-size: 20px;
+}
+
+img {
+  width: 40%;
+  height: 40%;
+  border: dashed purple 4px;  /* added */
+  padding: 10px;  /* added */
+  margin-left: 490px; /* added */
+  border-radius: 10px;
+}
+
+figcaption {
+  text-align : center;  /* added */
+  font-size: 10px;
+  background: white; /* added */
+  border:solid 2px purple; /* added */
+  padding: 5px; /* added */
+  margin: 20px 5px 20px 5px; /* added */
+}
+
+li {
+ list-style-type: none;
+}
+
+span {
+  font-weight: bold;
+}
+
+blockquote {
+  text-align: center;
+  color: purple;
+}
+
+h3 {
+  text-align: center;
+}
+
+a {
+  color: white;
+  text-decoration:  purple wavy underline;
+}
+
+#subheader { /* added */
+  color: blue; /* added */
+  font-size: 17px;/* added */
+}
+
+#timeline-header { /* added */
+  font-size: 2rem; /* added */
+  border-bottom: 1px solid white;/* added */
+}
+
+#first-list-item { /* added */
+  border: 5px dotted purple;  /* added */
+  margin: 40px;  /* added */
+  padding-top: 5%;  /* added */
+  color: purple; /* added */
+}
+
+#award-year { /* added */
+  border-bottom: 4px solid purple;  /* added */
+  border-top: 4px solid purple; /* added */
+  margin-bottom: 20%; /* added */
+  padding: 2px; /* added */
+}
+
+
+#learn-more { /* added */
+  font-size: 15px; /* added */
+}
