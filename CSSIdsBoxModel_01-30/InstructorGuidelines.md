@@ -1,4 +1,4 @@
-## Topic: CSS Elements
+## Topic: CSS Ids and Box Model
 ## Instructors: Nyah and Grace
 ## Date: 01/30
 
