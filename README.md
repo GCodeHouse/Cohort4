@@ -1,16 +1,16 @@
 # Cohort4 Schedule
 
 
-| # | Date          | Session Agenda                              | Co-Instructors    | Leaders        |
-|---|---------------|---------------------------------------------|-------------------|----------------|
-| 1 | 01/16         | Meet the Change Makers                      | None              | Rizel + Bailey |
-| 2 | 01/23         | CSS Elements                                | Brittany + Grace  | Rizel          |
-| 3 | 02/30         | CSS IDs and Box Model                       | Grace + Nyah      | Rizel          |
-| 4 | 02/06         | CSS Classes and Flexbox                     | Brittany + Aizhan | Rizel          |
-| 5 | 02/13         | Intro to Logic + Upload Projects to GitHub  | Alex + Aizhan     | Rizel          |
-| 6 | 02/20         | Manipulating the DOM                        | PJ + Kamari       | Rizel          |
-| 7 | 02/27         | Focus on Projects/ Answering JS Questions   | Alex + Kamari     | Rizel          |
-| 8 | 07/03 - 07/05 | Graduation                                  | None              | Rizel + Bailey |
+| # | Date          | Session Agenda                              | Co-Instructors    | Assistant Instructor (One off Questions during lecture) | Leaders        |
+|---|---------------|---------------------------------------------|-------------------|---------------------------------------------------------|----------------|
+| 1 | 01/16         | Meet the Change Makers                      | None              | None                                                    | Rizel + Bailey |
+| 2 | 01/23         | CSS Elements                                | Brittany + Grace  | Colin and Klauwer                                       | Rizel          |
+| 3 | 02/30         | CSS IDs and Box Model                       | Grace + Nyah      | Zach and Divine                                         | Rizel          |
+| 4 | 02/06         | CSS Classes and Flexbox                     | Brittany + Aizhan | Alessandro and Klauwer                                  | Rizel          |
+| 5 | 02/13         | Intro to Logic + Upload Projects to GitHub  | Alex + Aizhan     | None                                                    | Rizel          |
+| 6 | 02/20         | Manipulating the DOM                        | PJ + Kamari       | Julia and Enrique                                       | Rizel          |
+| 7 | 02/27         | Focus on Projects/ Answering JS Questions   | Alex + Kamari     | None                                                    | Rizel          |
+| 8 | 07/03 - 07/05 | Graduation                                  | None              | None                                                    | Rizel + Bailey |
 
 **Projects:**
 
