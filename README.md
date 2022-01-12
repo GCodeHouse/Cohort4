@@ -10,7 +10,7 @@
 | 5 | 02/13         | Intro to Logic + Upload Projects to GitHub  | Alex + Aizhan     | None                                                    | Rizel          |
 | 6 | 02/20         | Manipulating the DOM                        | PJ + Kamari       | Julia + Enrique                                       | Rizel          |
 | 7 | 02/27         | Focus on Projects/ Answering JS Questions   | Alex + Kamari     | None                                                    | Rizel          |
-| 8 | 07/03 - 07/05 | Graduation                                  | None              | None                                                    | Rizel + Bailey |
+| 8 | 03/06 | Graduation                                  | None              | None                                                    | Rizel + Bailey |
 
 **Projects:**
 
