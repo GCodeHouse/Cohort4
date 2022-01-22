@@ -1,28 +1,28 @@
 body {
-  background: thistle;
+  background: #F9EAE1;
+  color: #7D4F50;
+  font-family: 'Courier New', monospace;
 }
 
 h1 {
   text-align: center;
-  font-size: 2rem;
-  color: purple;
+  font-size: 30px;
+  color: #7D4F50;
 }
 
 p {
   text-align: center;
-  font-style: italic;
   font-size: 20px;
+  background: #7D4F50;
+  color: white;
 }
+
 
 img {
-  width: 40%;
-  height: 40%;
+  width: 50%;
+  height: 50%;
 }
 
-figcaption {
-  text-align : left;
-  font-size: 10px;
-}
 li {
  list-style-type: none;
 }
@@ -33,14 +33,14 @@ span {
 
 blockquote {
   text-align: center;
-  color: purple;
 }
 
 h3 {
   text-align: center;
+  font-size: 25px;
 }
 
 a {
   color: white;
-  text-decoration:  purple wavy underline;
+  text-decoration:  white wavy underline;
 }
