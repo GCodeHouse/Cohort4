@@ -39,3 +39,17 @@
 - After each session, I will post a Slack poll asking which students need help and what times they are available to work with a mentor. I will ask you all (our facilitators, volunteers, mentors) if you all are available during the times our students indicated.
 - If you are available, communicate with the students in our #cohort-4-winter-2022 channel, letting them know you can help them out. When the time comes closer, post a zoom or google meets link in the channel and let them know you're ready to help them debug the problem.
 - If you have questions or concerns, email me at rizel@thegcodehouse.com.
+
+## How to Ask for Help...
+- Write a brief message in #help summarizing your problem. For example:
+"I'm trying to connect to MySQL from Node.js."
+
+- To keep the channel uncluttered, make a thread under your message (hover over your message and select "Start a thread").
+In the thread, explain what you've tried and what the result was.
+For example:
+"I ran "mysql -u root -p", but I got the result "bash: mysql: command not found". (This helps the mentors have more context and be able to help you even if you're not available for an immediate back-and-forth.)
+- If possible, post a link to your code (you can use https://github.com/, http://Codepen.io, http://Repl.it, https://glitch.com/, etc!)
+
+-Try googling any error messages you get. Very often, others have had the same situation and there will be good answers. You can also search https://stackoverflow.com/ directly!
+
+- If your problem is resolved, react to your original message with a ✅ (check mark) by hovering over it and clicking "Add reaction". This will help people know what requests have been resolved and focus on the ones still needing help.
