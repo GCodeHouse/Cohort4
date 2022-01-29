@@ -1,0 +1,10 @@
+h1 {
+  text-align: center;
+  font-size: 80px;
+  background-color: red;
+}
+
+p {
+  background: purple;
+  color: white;
+}
