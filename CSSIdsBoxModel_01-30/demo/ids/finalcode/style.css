@@ -1,0 +1,24 @@
+h1 {
+  color: blue;
+  font-size: 50px;
+}
+
+p {
+  font-size: 20px;
+  color: red;
+  background-color: #000000;
+}
+
+#unique-paragraph {
+   background-color: magenta;
+   font-weight: bold;
+   font-size: 2em; 
+}
+
+#special-h4 {
+  background-color: limegreen
+}
+
+#unique-paragraph, #special-h4  {
+  color: white;
+}
