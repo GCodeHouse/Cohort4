@@ -4,6 +4,9 @@
 
 [How to use Terminal video](https://www.youtube.com/watch?v=aKRYQsKR46I)
 
-[Codeacademy Learn the command line](https://www.codecademy.com/learn/learn-the-command-line
-)
+[Codeacademy Learn the command line](https://www.codecademy.com/learn/learn-the-command-line)
+
+[Interactive learning](https://www.learnshell.org/)
+
+
 
