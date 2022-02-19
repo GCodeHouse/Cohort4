@@ -7,9 +7,9 @@ console.log('hello world')
 
 // lets try to get the body element by its id
 
-document.getElementById('mainBackground')
+document.getElementById('main-background')
                         
 // althought that syntax is right, we don't know if it worked,
 // so let's console log it to see that it grabbed the right element 
 
-console.log(document.getElementById('mainBackground'))
+console.log(document.getElementById('main-background'))
