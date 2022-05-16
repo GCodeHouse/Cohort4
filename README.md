@@ -5,7 +5,7 @@
 |---|---------------|---------------------------------------------|-------------------|---------------------------------------------------------|----------------|
 | 1 | 01/16         | Meet the Change Makers                      | None              | None                                                    | Rizel + Bailey |
 | 2 | 01/23         | CSS Elements                                | Brittany + Grace  | Colin + Klauwer                                       | Rizel          |
-| 3 | 02/30         | CSS IDs and Box Model                       | Grace + Nyah      | Zach + Divine                                         | Rizel          |
+| 3 | 01/30         | CSS IDs and Box Model                       | Grace + Nyah      | Zach + Divine                                         | Rizel          |
 | 4 | 02/06         | CSS Classes and Flexbox                     | Brittany + Aizhan | Alessandro + Klauwer                                  | Rizel          |
 | 5 | 02/13         | Intro to Logic + Upload Projects to GitHub  | Alex + Aizhan     | None                                                    | Rizel          |
 | 6 | 02/20         | Manipulating the DOM                        | PJ + Kamari       | Julia + Enrique                                       | Rizel          |
