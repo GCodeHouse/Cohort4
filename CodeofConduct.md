@@ -1,4 +1,4 @@
-# **G|CODE - Code of Conduct**
+# **G{CODE} - Code of Conduct**
 
 The G|Code community is committed to creating and sustaining a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, ethnicity, or religion. We have a zero tolerance policy for all members of the G|Code community.
 
